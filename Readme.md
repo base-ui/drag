@@ -32,6 +32,10 @@ Available events:
 #### .trigger()
 
 
+## Todo
+- mobile drag support
+
+
 ## License
 
   MIT
